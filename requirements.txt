@@ -1,0 +1,22 @@
+# runtime environment
+#     ubuntu 22.04
+#     python 3.9.19
+#     cuda 12.1
+#     cudnn 9.1.0
+
+# import
+beautifulsoup4==4.13.4
+huggingface_hub==0.24.7
+Jinja2==3.1.6
+matplotlib==3.10.3
+networkx==3.2.1
+nltk==3.9.1
+numpy==2.2.6
+openai==1.79.0
+pandas==2.2.3
+Requests==2.32.3
+scikit_learn==1.6.1
+seaborn==0.13.2
+torch==2.4.0
+tqdm==4.66.5
+transformers==4.44.2
